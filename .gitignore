@@ -1,0 +1,22 @@
+# model weights and caches
+models/
+*.safetensors
+*.gguf
+*.npz
+.cache/
+.venv/
+__pycache__/
+
+# raw experiment output (archive privately, not in git)
+results/
+logs/
+hosts/
+*.jsonl
+
+# secrets and machine-specific files
+.env
+*.key
+*.pem
+id_*
+model-lock.json.bak
+.DS_Store
