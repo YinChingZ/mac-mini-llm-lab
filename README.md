@@ -8,6 +8,8 @@
 
 - [docs/PROJECT-BRIEF.md](docs/PROJECT-BRIEF.md)：项目简报。目标与边界、硬件与共用约束、时间线、对指南的复核、类似实践证据、性能估算、MoE 方向、特化框架的阶段与闸门。
 - [docs/NETWORK-CONFIG-PLAN.md](docs/NETWORK-CONFIG-PLAN.md)：交换机与学校网络的配置方案和测试计划。
+- [docs/TEST-ROUTE.md](docs/TEST-ROUTE.md)：重排后的测试路线（2026-10-30），对应 PDF 修订版第02、18–42章；基础设施章节只在 PDF 中。
+- [docs/MINIMAL-FLOW.md](docs/MINIMAL-FLOW.md)：最简实验流程，只保留得出结论必须做的 11 步。
 
 ## 脚本
 
